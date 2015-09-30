@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 表記集傳
-#+DATE: 2015-09-23 09:38:25
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:10:32.858005
+#+PROPERTY: ID KR1d0063
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1d0063_WYG_001-1a>¶
 欽定四庫全書¶
 　表記集傳卷一¶
@@ -1478,4 +1480,3 @@
 　¶
 　¶
 　表記集傳卷一¶
-
